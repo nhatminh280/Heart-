@@ -3,5 +3,5 @@
 # You must download python 3 on web site (window) : 
     https://www.python.org/downloads/
 # And install the necessary libraries
-# then run the file and this is the result: 
-            ![alt text](image-1.png)
+# then run the file and get the result: 
+          
